@@ -1,0 +1,5 @@
+.our-contacts__row {
+  display: flex;
+  margin: 80px 0 100px;
+  justify-content: space-between;
+}

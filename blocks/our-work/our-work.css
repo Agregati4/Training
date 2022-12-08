@@ -1,0 +1,6 @@
+.our-work {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 100px;
+}

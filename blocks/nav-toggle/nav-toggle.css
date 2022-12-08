@@ -1,0 +1,9 @@
+.nav-toggle {
+  margin: 0 0 0 113px;
+  transition: opacity .2s linear;
+}
+
+.nav-toggle:hover {
+  opacity: 0.75;
+  cursor: pointer;
+}

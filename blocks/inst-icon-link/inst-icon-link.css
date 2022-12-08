@@ -1,0 +1,8 @@
+.inst-icon-link {
+  margin: 0;
+  transition: .2s linear;
+}
+
+.inst-icon-link:hover {
+  opacity: 0.75;
+}

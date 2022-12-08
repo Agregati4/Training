@@ -1,0 +1,8 @@
+.header__title {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 120%;
+  font-family: "Garamond", "Arial", sans-serif;
+  color: white;
+  margin: 260px auto 290px;
+}

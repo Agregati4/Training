@@ -1,0 +1,14 @@
+.quote__text {
+  color: white;
+  max-width: 856px;
+  text-align: center;
+  margin: 60px 0 20px;
+  font-weight: 700;
+  font-size: 27px;
+  line-height: 130%;
+  font-family: "Cormorant Garamond", "Arial", sans-serif;
+}
+
+.quote__text:last-of-type {
+  margin: 0 0 115px;
+}

@@ -1,0 +1,7 @@
+.table__cell {
+  margin: 0 0 80px;
+}
+
+.table__cell:nth-last-child(-n+3) {
+  margin: 0;
+}

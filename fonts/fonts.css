@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Garamond';
+  src: url('Garamond-Bold.eot');
+  src: url('Garamond-Bold.eot?#iefix') format('embedded-opentype'),
+      url('Garamond-Bold.woff2') format('woff2'),
+      url('Garamond-Bold.woff') format('woff'),
+      url('Garamond-Bold.ttf') format('truetype'),
+      url('Garamond-Bold.svg#Garamond-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('CormorantGaramond-Bold.eot');
+  src: url('CormorantGaramond-Bold.eot?#iefix') format('embedded-opentype'),
+      url('CormorantGaramond-Bold.woff2') format('woff2'),
+      url('CormorantGaramond-Bold.woff') format('woff'),
+      url('CormorantGaramond-Bold.ttf') format('truetype'),
+      url('CormorantGaramond-Bold.svg#CormorantGaramond-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('CormorantGaramond-Regular.eot');
+  src: url('CormorantGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+      url('CormorantGaramond-Regular.woff2') format('woff2'),
+      url('CormorantGaramond-Regular.woff') format('woff'),
+      url('CormorantGaramond-Regular.ttf') format('truetype'),
+      url('CormorantGaramond-Regular.svg#CormorantGaramond-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('CormorantGaramond-SemiBold.eot');
+  src: url('CormorantGaramond-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('CormorantGaramond-SemiBold.woff2') format('woff2'),
+      url('CormorantGaramond-SemiBold.woff') format('woff'),
+      url('CormorantGaramond-SemiBold.ttf') format('truetype'),
+      url('CormorantGaramond-SemiBold.svg#CormorantGaramond-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Garamond';
+  src: url('Garamond.eot');
+  src: url('Garamond.eot?#iefix') format('embedded-opentype'),
+      url('Garamond.woff2') format('woff2'),
+      url('Garamond.woff') format('woff'),
+      url('Garamond.ttf') format('truetype'),
+      url('Garamond.svg#Garamond') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

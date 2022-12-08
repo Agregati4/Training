@@ -1,0 +1,8 @@
+.header__image {
+  background-image: url(../../../images/header-image.svg);
+  position: absolute;
+  width: 1920px;
+  height: 1038px;
+  background-size: 1920px 1038px;
+  z-index: -1;
+}

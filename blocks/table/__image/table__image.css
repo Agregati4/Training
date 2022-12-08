@@ -1,0 +1,6 @@
+.table__image {
+  box-shadow: 19px -19px 0px #111111, 20px -20px 0px rgba(205, 170, 125, 0.5), 18px -20px 0px rgba(205, 170, 125, 0.5), 20px -18px 0px rgba(205, 170, 125, 0.5);
+  width: 396px;
+  height: 300px;
+  margin: 0;
+}

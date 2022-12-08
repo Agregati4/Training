@@ -1,0 +1,23 @@
+.our-work__menu-link {
+  font-family: "Cormorant Garamond", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 130%;
+  color: white;
+  margin: 0 60px 0 0;
+  text-decoration: none;
+}
+
+.our-work__menu-link:last-of-type {
+  margin: 0;
+}
+
+.our-work__menu-link:hover {
+  color: #CDAA7D;
+  box-shadow: inset 0 -1px #CDAA7D;
+}
+
+.our-work__menu-link:focus {
+  color: #CDAA7D;
+  box-shadow: inset 0 -1px #CDAA7D;
+}

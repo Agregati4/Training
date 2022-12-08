@@ -1,0 +1,8 @@
+.prices__block {
+  display: flex;
+  margin: 0 0 80px;
+}
+
+.prices__block:last-of-type {
+  margin: 0;
+}

@@ -1,0 +1,12 @@
+.right-menu {
+  position: fixed;
+  width: 475px;
+  height: 100vh;
+  background-color: #111;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  padding: 42px 80px;
+  box-sizing: border-box;
+  transition: right .5s;
+}

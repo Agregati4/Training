@@ -1,0 +1,6 @@
+.prices__column {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

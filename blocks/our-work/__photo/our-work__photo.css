@@ -1,0 +1,9 @@
+.our-work__photo {
+  width: 416px;
+  height: 416px;
+  margin: 0 0 24px;
+}
+
+.our-work__photo:nth-last-child(-n+3) {
+  margin: 0;
+}
