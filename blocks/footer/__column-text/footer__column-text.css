@@ -4,8 +4,6 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 130%;
-}
-
-.footer__column-text:first-of-type {
-  margin: 0;
+  text-decoration: none;
+  color: white;
 }

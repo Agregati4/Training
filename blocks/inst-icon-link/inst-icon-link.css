@@ -1,6 +1,8 @@
 .inst-icon-link {
   margin: 0;
   transition: .2s linear;
+  width: 24px;
+  height: 24px;
 }
 
 .inst-icon-link:hover {

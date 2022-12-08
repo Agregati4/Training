@@ -1,0 +1,9 @@
+.logo-link_place_footer {
+  width: 60px;
+  height: 58.02px;
+  transition: opacity .2s linear;
+}
+
+.logo-link_place_footer:hover {
+  opacity: 0.6;
+}

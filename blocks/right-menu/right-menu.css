@@ -4,7 +4,7 @@
   height: 100vh;
   background-color: #111;
   top: 0;
-  right: 0;
+  right: -475px;
   z-index: 5;
   padding: 42px 80px;
   box-sizing: border-box;
